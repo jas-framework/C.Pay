@@ -12,6 +12,6 @@ A Matrix bot that allows users to send/receive crypto instantly with zero initia
   
 **More Info**
   <br>
-To learn more about the project take a look at the docs
+To learn more about the project take a look at the [docs](https://github.com/jas-framework/C.Pay/tree/main/DraftDocs)
   
   
