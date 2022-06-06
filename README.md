@@ -11,6 +11,7 @@ A Matrix bot that allows users to send/receive crypto instantly with zero initia
 - Increased user anonymity by masking transactions
   
 **More Info**
-  To learn more about the project take a look at the docs
+  <br>
+To learn more about the project take a look at the docs
   
   
