@@ -1,11 +1,13 @@
 **Aid The Development Of C.Pay**
 <br>
 You can aid the project in a few different ways.
-<br>
+<br><br>
 1. **Submit issues and code changes on the Github repository**
 - Looking for co-developers. 
+<br>
 2. **Help gain support and grow the community** 
 - Matrix Space: https://matrix.to/#/#C.Pay:matrix.org)
+<br>
 3. **Send a donation**[^1][^2][^3]
 
 
