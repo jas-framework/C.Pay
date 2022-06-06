@@ -1,4 +1,4 @@
-**Defining The Project**
+**Defining The Project** <br>
 C.Pay
 
 
@@ -13,9 +13,9 @@ The minimal viable product is a bot that can allow Matrix users to (without fees
 *Users would be able to send/trade crypto across their Matrix accounts free of fees. The only way you would have fees is if you withdrew from your account. (e.g. blockchain fees and a 3% bot service fee.) 
 
 3. **What are the nice to haves?**
-    • Increase User Privacy (More details will be explained in Usage)
-    • Sleek Frontend User Interface
-    • Support Multiple Cryptocurrencies
+    - Increase User Privacy (More details will be explained in Usage)
+    - Sleek Frontend User Interface
+    - Support Multiple Cryptocurrencies
 
 
 4. **When will the project be complete?**
