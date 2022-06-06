@@ -8,8 +8,10 @@ The C.Pay project is a project to build a Matrix bot that can hold, receive, and
 2. **What is the MVP (Minimal Viable Product)?** <br>
 The minimal viable product is a bot that can allow Matrix users to (without fees*) exchange cryptocurrency with each other as well as support crypto deposits and withdraws. 
 
-3. **Features**
-   - ...
+3. **MVP Features**
+   - Instant crypto transactions between users
+   - Zero transactions fees between users
+   - Transaction anonymity
 
 3. **What are the nice to haves?**
     - Increase User Privacy (More details will be explained in Usage)
