@@ -2,11 +2,11 @@
 <br>
 You can aid the project in a few different ways.
 <br>
-1. Submit issues and code changes on the Github repository 
+1. **Submit issues and code changes on the Github repository**
 - Looking for co-developers. 
-3. Help gain support and grow the community 
+2. **Help gain support and grow the community** 
 - Matrix Space: https://matrix.to/#/#C.Pay:matrix.org)
-4. Send a donation[^1][^2][^3]
+3. **Send a donation**[^1][^2][^3]
 
 
 [^1]:Monero: 43X6q5tpT3fNJFYazar8jdAFG6KXJJFY9eNKYYfvqXr8ZA3xKRaJ5wxbtCNF8YtCKENEX736RqXp19D5tkUyvMAFShrwcrA
