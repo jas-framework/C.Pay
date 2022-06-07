@@ -7,7 +7,7 @@ You can aid the project in a few different ways.
 2. **Help gain support and grow the community** 
 - Matrix Space: https://matrix.to/#/#C.Pay:matrix.org
 
-3. **Send a donation**[^1][^2][^3][^4][^5}
+3. **Send a donation**[^1][^2][^3][^4][^5]
 
 
 [^1]:Monero: 43X6q5tpT3fNJFYazar8jdAFG6KXJJFY9eNKYYfvqXr8ZA3xKRaJ5wxbtCNF8YtCKENEX736RqXp19D5tkUyvMAFShrwcrA
