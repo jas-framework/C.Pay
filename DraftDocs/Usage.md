@@ -1,10 +1,10 @@
 ## Usage of C.Pay (In theory)
 
-**Command Tips**
+**Command Tips** <br>
 Any command that starts with an exclamation point (!deposit) is an action command. 
-Any command that starts with a question mark (?help) is a static command.
+Any command that starts with a question mark (?help) is a static command. <br><br>
 
-**Deposits**
+**Deposits** <br>
 To make a deposit, it is recomended that you start a private conversation with C.Pay.
 
 
