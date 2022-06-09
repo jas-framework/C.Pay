@@ -5,7 +5,7 @@ Any command that starts with an exclamation point (!deposit) is an action comman
 Any command that starts with a question mark (?help) is a info command. <br><br>
 
 **List of Commands** <br>
-- [!deposit]() (btc)
+- [!deposit](https://github.com/jas-framework/C.Pay/blob/main/DraftDocs/Usage.md#deposits-) (btc)
 - [!withdraw]() (eth)
 - [!send]() (@happycoder1 0.5 xmr)
 - [?help]() 
