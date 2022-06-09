@@ -7,9 +7,9 @@ Any command that starts with a question mark (?help) is a static command. <br><b
 **List of Commands** <br>
 - [!deposit]() (btc)
 - [!withdraw]() (eth)
-- [!send]() (@happycoder1 0.5 XMR)
+- [!send]() (@happycoder1 0.5 xmr)
 - [?help]() 
-- [?priceof]() (XMR)
+- [?priceof]() (xmr)
 - [?feesof]() (eth) <br><br>
 
 **Deposits** <br>
