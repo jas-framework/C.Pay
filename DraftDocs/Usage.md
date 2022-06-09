@@ -12,9 +12,11 @@ Any command that starts with a question mark (?help) is a info command. <br><br>
 - [?priceof]() (xmr)
 - [?feesof]() (eth) <br><br>
 
-**Deposits** <br>
-To make a deposit, it is recomended that you start a private conversation with C.Pay.
+### Deposits <br>
+To make a deposit, it is recomended that you start a private conversation with C.Pay. <br><br>
 
+### Withdraws <br>
+To make a withdraw, it is recomended that you start a private conversation with C.Pay.
 
 
 
