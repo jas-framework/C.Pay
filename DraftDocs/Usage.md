@@ -6,7 +6,7 @@ Any command that starts with a question mark (?help) is a info command. <br><br>
 
 **List of Commands** <br>
 - [!deposit](https://github.com/jas-framework/C.Pay/blob/main/DraftDocs/Usage.md#deposits-) (btc)
-- [!withdraw]() (eth)
+- [!withdraw](https://github.com/jas-framework/C.Pay/blob/main/DraftDocs/Usage.md#withdraws-) (eth)
 - [!send]() (@happycoder1 0.5 xmr)
 - [?help]() 
 - [?priceof]() (xmr)
