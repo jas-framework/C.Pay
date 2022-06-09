@@ -2,7 +2,7 @@
 
 **Command Tips** <br>
 Any command that starts with an exclamation point (!deposit) is an action command. <br>
-Any command that starts with a question mark (?help) is a static command. <br><br>
+Any command that starts with a question mark (?help) is a info command. <br><br>
 
 **List of Commands** <br>
 - [!deposit]() (btc)
